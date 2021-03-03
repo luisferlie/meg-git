@@ -2,5 +2,6 @@ body {
     background-color: blue;
     font-family: serif;
     color: aliceblue;
-    font-size: xx-large;
+    font-size: 1.4 rem;
+    padding: 3 em;
 }
